@@ -1,0 +1,8 @@
+.qodo
+
+env/
+venv/
+
+*.pyc
+__pycache__/
+*.pyo
